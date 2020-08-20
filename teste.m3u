@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,GloboSP
+https://cdn.esporteone.com/GloboSP/video.m3u8
+#EXTINF:-1 ,GloboRJ
+https://cdn.esporteone.com/GLOBORJ/video.m3u8
+#EXTINF:-1 ,SPORTV
+https://live.esporteone.com/SPORTV/video.m3u8
+#EXTINF:-1 ,RecordTv
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
+#EXTINF:-1 ,BAND
+https://cdn.esporteone.com/BAND/video.m3u8
+#EXTINF:-1 ,BAND2
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1368871708.m3u8
+#EXTINF:-1 ,Band BSB HD2
+http://tbip.ga:80/heron10/heron10/38823
+#EXTINF:-1 ,BAND CAMPINAS HD2
+http://tbip.ga:80/heron10/heron10/38824
+#EXTINF:-1 ,Band RJ HD2
+http://tbip.ga:80/heron10/heron10/38825
+#EXTINF:-1 ,Band RS 2
+http://tbip.ga:80/heron10/heron10/38826
+#EXTINF:-1 ,Band Sergipe 2
+http://tbip.ga:80/heron10/heron10/38827
+#EXTINF:-1 ,Band SP HD2
+http://tbip.ga:80/heron10/heron10/38828
+#EXTINF:-1 ,AXN
+http://tbip.ga:80/heron10/heron10/38462
+#EXTINF:-1 ,AXN HD
+http://tbip.ga:80/heron10/heron10/38463
+#EXTINF:-1 ,CNNBRASIL
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOCNBHD)/manifest.mpd
+#EXTINF:-1 ,CNNBRASIL
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOAMCHD)/manifest.mpd
